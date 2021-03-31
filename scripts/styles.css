@@ -1,0 +1,22 @@
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+  font-family: "Open Sans", sans-serif;
+  font-family: "Poppins", sans-serif;
+}
+
+:root {
+  --color-primary: #ff52c1;
+  --color-secondary: #edfbff;
+  --color-headings: #00252e;
+  --color-body: #808e9a;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-size: 1.8rem;
+}
