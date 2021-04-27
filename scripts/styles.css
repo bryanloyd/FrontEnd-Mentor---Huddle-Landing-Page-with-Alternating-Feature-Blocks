@@ -2,8 +2,6 @@
 *::after,
 *::before {
   box-sizing: border-box;
-  font-family: "Open Sans", sans-serif;
-  font-family: "Poppins", sans-serif;
 }
 
 :root {
@@ -11,6 +9,7 @@
   --color-secondary: #edfbff;
   --color-headings: #00252e;
   --color-body: #808e9a;
+  --color-hover: #ff9adb;
 }
 
 html {
@@ -18,5 +17,7 @@ html {
 }
 
 body {
+  font-family: "Open Sans", sans-serif;
+  font-family: "Poppins", sans-serif;
   font-size: 1.8rem;
 }
